@@ -1,0 +1,2866 @@
+{
+  "kind": "blogger#postList",
+  "items": [
+    {
+      "kind": "blogger#post",
+      "id": "8314651350999037864",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T03:25:00-08:00",
+      "updated": "2021-01-30T05:45:28-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/quantum-machine.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/8314651350999037864",
+      "title": "quantum machine",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/8314651350999037864/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE0MzI4NzQyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8627710558657329436",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T03:24:00-08:00",
+      "updated": "2021-01-30T05:45:55-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/anderson-localization.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/8627710558657329436",
+      "title": "Anderson localization",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/8627710558657329436/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE0MzU1NzE1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2341204542548130310",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T03:22:00-08:00",
+      "updated": "2021-01-30T05:46:12-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/excited-state.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/2341204542548130310",
+      "title": "Excited state",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/2341204542548130310/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE0MzcyMDk1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7786436920620053652",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T03:20:00-08:00",
+      "updated": "2021-01-30T05:46:34-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/rutherfordbohr-model.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7786436920620053652",
+      "title": "Rutherford–Bohr model",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7786436920620053652/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE0Mzk0MDA0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5568242634081656019",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T03:17:00-08:00",
+      "updated": "2021-01-30T05:46:56-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/bornoppenheimer-approximation.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/5568242634081656019",
+      "title": "Born–Oppenheimer approximation",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/5568242634081656019/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE0NDE2OTA2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7956439223173295436",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T03:14:00-08:00",
+      "updated": "2021-01-30T05:47:29-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/boseeinstein-condensate.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7956439223173295436",
+      "title": "Bose–Einstein condensate",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7956439223173295436/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE0NDQ5MTQwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "525098080949193124",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T03:11:00-08:00",
+      "updated": "2021-01-30T05:47:47-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/electron-diffraction.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/525098080949193124",
+      "title": "Electron diffraction",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/525098080949193124/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE0NDY3NTYwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "931830105147535619",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T03:07:00-08:00",
+      "updated": "2021-01-30T05:48:06-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/evanescent-field_24.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/931830105147535619",
+      "title": "evanescent field",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/931830105147535619/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE0NDg2MjA1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2744212256027987062",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T02:59:00-08:00",
+      "updated": "2021-01-24T02:59:47-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/antiparticle.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/2744212256027987062",
+      "title": "antiparticle",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/2744212256027987062/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjExNDg1OTg3MzA4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1339647125964881941",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T02:57:00-08:00",
+      "updated": "2021-01-30T05:48:29-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/franckhertz-experiment.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/1339647125964881941",
+      "title": "Franck–Hertz experiment",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/1339647125964881941/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE0NTA5MjQwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7766013668173170679",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T02:09:00-08:00",
+      "updated": "2021-01-30T05:48:52-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/helicity-particle-physics.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7766013668173170679",
+      "title": "Helicity (particle physics)",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7766013668173170679/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE0NTMyNDY0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3444993452645676018",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T02:05:00-08:00",
+      "updated": "2021-01-30T05:49:19-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/institute-for-quantum-optics-and.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/3444993452645676018",
+      "title": "Institute for Quantum Optics and Quantum Information",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/3444993452645676018/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE0NTU5OTE3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1577822021716041640",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T01:56:00-08:00",
+      "updated": "2021-01-30T05:49:51-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/wave-interference.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/1577822021716041640",
+      "title": "Wave interference",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/1577822021716041640/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE0NTkxMDY5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8382342791157782813",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T01:53:00-08:00",
+      "updated": "2021-01-30T05:50:13-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/magneto-optical-trap.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/8382342791157782813",
+      "title": "magneto-optical trap",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/8382342791157782813/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE0NjEzNzAwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6879309682120892273",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T01:41:00-08:00",
+      "updated": "2021-01-30T05:50:39-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/surface-plasmons.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/6879309682120892273",
+      "title": "Surface plasmons",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/6879309682120892273/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE0NjM5MjQxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8778630049284493696",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T01:39:00-08:00",
+      "updated": "2021-01-30T05:50:57-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/spontaneous-parametric-down-conversion.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/8778630049284493696",
+      "title": "Spontaneous parametric down-conversion",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/8778630049284493696/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE0NjU3NjA3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8247047215925965785",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T01:35:00-08:00",
+      "updated": "2021-01-30T05:51:38-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/plancks-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/8247047215925965785",
+      "title": "Planck's law ",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/8247047215925965785/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE0Njk4MDQ2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7230515475368865271",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T01:31:00-08:00",
+      "updated": "2021-01-30T05:52:02-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/quantum-chaos.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7230515475368865271",
+      "title": "Quantum chaos",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7230515475368865271/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE0NzIyNjk2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2832638377576001810",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T01:29:00-08:00",
+      "updated": "2021-01-30T05:52:23-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/quantum-fluid.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/2832638377576001810",
+      "title": "quantum fluid",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/2832638377576001810/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE0NzQzMTc4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "9077085728876644117",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T01:27:00-08:00",
+      "updated": "2021-01-30T05:53:10-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/quantum-cascade-lasers.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/9077085728876644117",
+      "title": "Quantum cascade lasers",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/9077085728876644117/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE0NzkwNjU5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1452994334037592386",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T01:11:00-08:00",
+      "updated": "2021-01-30T05:53:32-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/quantum-dots-qds.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/1452994334037592386",
+      "title": "Quantum dots (QDs)",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/1452994334037592386/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE0ODEyNjg3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5114445410252148174",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T01:09:00-08:00",
+      "updated": "2021-01-30T05:54:47-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/spin-physics.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/5114445410252148174",
+      "title": "Spin (physics)",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/5114445410252148174/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE0ODg3MzQwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7973597146943267741",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T01:06:00-08:00",
+      "updated": "2021-01-30T05:55:06-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/spin-hall-effect.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7973597146943267741",
+      "title": "spin Hall effect",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7973597146943267741/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE0OTA2MTY1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4677457753231964895",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T01:04:00-08:00",
+      "updated": "2021-01-30T05:55:25-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/squid.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/4677457753231964895",
+      "title": "SQUID",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/4677457753231964895/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE0OTI1MzQ1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "637050448839543427",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T01:02:00-08:00",
+      "updated": "2021-01-30T05:55:48-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/superfluidity.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/637050448839543427",
+      "title": "Superfluidity",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/637050448839543427/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE0OTQ4NTg1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3760247589388620766",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T01:00:00-08:00",
+      "updated": "2021-01-30T05:56:54-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/forbidden-mechanism.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/3760247589388620766",
+      "title": "forbidden mechanism",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/3760247589388620766/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE1MDE0Mjk2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4024434002319310529",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T00:58:00-08:00",
+      "updated": "2021-01-30T05:57:20-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/waveparticle-duality.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/4024434002319310529",
+      "title": "Wave–particle duality",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/4024434002319310529/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE1MDQwNDY0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "894028736127828760",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T00:55:00-08:00",
+      "updated": "2021-01-30T05:59:32-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/wave-equation.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/894028736127828760",
+      "title": "wave equation",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/894028736127828760/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE1MTcyMzkzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8765628039425060445",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T00:46:00-08:00",
+      "updated": "2021-01-30T05:59:58-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/wiens-displacement-law.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/8765628039425060445",
+      "title": "Wien's displacement law",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/8765628039425060445/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE1MTk4NTM5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7990643715954676415",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T00:44:00-08:00",
+      "updated": "2021-01-30T06:03:33-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/aharonovbohm-effect.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7990643715954676415",
+      "title": "Aharonov–Bohm effect",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7990643715954676415/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE1NDEzODA4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5277031897208109356",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T00:41:00-08:00",
+      "updated": "2021-01-30T06:04:51-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/atom-interferometer.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/5277031897208109356",
+      "title": "atom interferometer",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/5277031897208109356/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE1NDkxODk4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7646829398908393191",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T00:39:00-08:00",
+      "updated": "2021-01-30T06:05:18-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/exchange-interaction.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7646829398908393191",
+      "title": "exchange interaction",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7646829398908393191/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE1NTE4NjgyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7328556016268624006",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T00:37:00-08:00",
+      "updated": "2021-01-30T06:05:56-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/selection-rule.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7328556016268624006",
+      "title": "selection rule",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7328556016268624006/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE1NTU2ODQ4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4036717204326937805",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T00:34:00-08:00",
+      "updated": "2021-01-30T06:06:19-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/bcs-theory.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/4036717204326937805",
+      "title": "BCS theory",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/4036717204326937805/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE1NTc5NDk5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1288624362508282596",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T00:33:00-08:00",
+      "updated": "2021-01-30T06:06:45-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/bells-theorem.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/1288624362508282596",
+      "title": "Bell's theorem",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/1288624362508282596/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE1NjA1MDY1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7186746897249223564",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T00:30:00-08:00",
+      "updated": "2021-01-30T06:07:07-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/betheslater-curve.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7186746897249223564",
+      "title": "Bethe–Slater curve",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7186746897249223564/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE1NjI3ODczCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8710790349183926310",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T00:28:00-08:00",
+      "updated": "2021-01-30T06:07:39-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/boseeinstein.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/8710790349183926310",
+      "title": "Bose–Einstein",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/8710790349183926310/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE1NjU5ODA2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2747121410811913404",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T00:24:00-08:00",
+      "updated": "2021-01-30T06:08:01-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/chronon.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/2747121410811913404",
+      "title": "chronon",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/2747121410811913404/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE1NjgxODIwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4877822243612289643",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T00:23:00-08:00",
+      "updated": "2021-01-30T06:08:40-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/clifford-algebra.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/4877822243612289643",
+      "title": "Clifford algebra",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/4877822243612289643/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE1NzIwMTg3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8918639369203003669",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T00:18:00-08:00",
+      "updated": "2021-01-30T06:09:06-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/compton-scattering.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/8918639369203003669",
+      "title": "Compton scattering",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/8918639369203003669/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE1NzQ2ODA2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5757061918936716256",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T00:16:00-08:00",
+      "updated": "2021-01-30T06:09:38-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/cooper-pair.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/5757061918936716256",
+      "title": "Cooper pair",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/5757061918936716256/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE1Nzc4Mjk3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2603115798329611601",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T00:15:00-08:00",
+      "updated": "2021-01-30T06:09:58-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/coulomb-barrier.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/2603115798329611601",
+      "title": "Coulomb barrier",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/2603115798329611601/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE1Nzk4OTkwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5788146786150254019",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T00:13:00-08:00",
+      "updated": "2021-01-30T06:10:20-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/davissongermer-experiment.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/5788146786150254019",
+      "title": "Davisson–Germer experiment",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/5788146786150254019/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE1ODIwMTQwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5143985959082299068",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-24T00:11:00-08:00",
+      "updated": "2021-01-30T06:10:54-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/density-matrix.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/5143985959082299068",
+      "title": "density matrix",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/5143985959082299068/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE1ODU0NjYwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8364839757987957227",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T10:43:00-08:00",
+      "updated": "2021-01-30T06:11:31-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/dirac-matrices.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/8364839757987957227",
+      "title": "Gamma matrices",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/8364839757987957227/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE1ODkxMzkzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5957877095280771038",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T10:39:00-08:00",
+      "updated": "2021-01-30T06:11:50-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/dirac-sea.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/5957877095280771038",
+      "title": "Dirac sea ",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/5957877095280771038/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE1OTEwNDUzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6624325074829557634",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T10:36:00-08:00",
+      "updated": "2021-01-30T06:12:25-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/angular-momentum-operator.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/6624325074829557634",
+      "title": "angular momentum operator",
+     "content": "",
+	 "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/6624325074829557634/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE1OTQ1Njk0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4329496534587480416",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T10:32:00-08:00",
+      "updated": "2021-01-30T06:12:50-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/principal-quantum-number.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/4329496534587480416",
+      "title": "Principal quantum number",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/4329496534587480416/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE1OTcwNDkxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7458227055894208977",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T10:30:00-08:00",
+      "updated": "2021-01-23T10:30:37-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/epr-paradox.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7458227055894208977",
+      "title": "EPR paradox",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7458227055894208977/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjExNDI2NjM3NDg2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6514531371713829623",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T10:28:00-08:00",
+      "updated": "2021-01-30T06:13:11-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/single-photon-sources.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/6514531371713829623",
+      "title": "Single-photon sources",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/6514531371713829623/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE1OTkxMzU4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3660453316804296457",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T10:26:00-08:00",
+      "updated": "2021-01-30T06:13:42-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/degenerate-energy-levels.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/3660453316804296457",
+      "title": "Degenerate energy levels",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/3660453316804296457/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2MDIyNDQwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4079332727756817961",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T10:23:00-08:00",
+      "updated": "2021-01-30T06:14:01-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/first-quantization.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/4079332727756817961",
+      "title": "first quantization",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/4079332727756817961/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2MDQxMjQ5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4711193262857840351",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T10:21:00-08:00",
+      "updated": "2021-01-30T06:14:22-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/excimer-laser.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/4711193262857840351",
+      "title": "excimer laser",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/4711193262857840351/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2MDYyNDE2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7040216390280473658",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T09:43:00-08:00",
+      "updated": "2021-01-30T06:14:54-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/fine-structure-constant.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7040216390280473658",
+      "title": "fine-structure constant",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7040216390280473658/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2MDk0Mzg1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4517536838824846116",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T09:40:00-08:00",
+      "updated": "2021-01-30T06:15:15-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/fermidirac-statistics.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/4517536838824846116",
+      "title": "Fermi–Dirac statistics",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/4517536838824846116/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2MTE1OTIxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7811366944393617958",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T04:28:00-08:00",
+      "updated": "2021-01-30T06:15:33-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/fermion.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7811366944393617958",
+      "title": "fermion",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7811366944393617958/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2MTMzNDUxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4318709063785673334",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T04:27:00-08:00",
+      "updated": "2021-01-30T06:15:52-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/geometric-quantization.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/4318709063785673334",
+      "title": "geometric quantization",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/4318709063785673334/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2MTUyMzc4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "319327762064485935",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T04:25:00-08:00",
+      "updated": "2021-01-30T06:16:11-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/half-integer.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/319327762064485935",
+      "title": "half-integer",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/319327762064485935/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2MTcxMjE1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5134068102309903347",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T04:22:00-08:00",
+      "updated": "2021-01-30T06:16:44-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/two-photon-physics.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/5134068102309903347",
+      "title": "Two-photon physics",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/5134068102309903347/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2MjA0MDg5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6143847205547877847",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T04:20:00-08:00",
+      "updated": "2021-01-30T06:17:46-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/highly-charged-ions.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/6143847205547877847",
+      "title": "Highly charged ions",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/6143847205547877847/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2MjY2NDIzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8085918642296236104",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T04:17:00-08:00",
+      "updated": "2021-01-30T06:18:32-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/holstein-primakoff.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/8085918642296236104",
+      "title": "Holstein-Primakoff",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/8085918642296236104/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2MzEyNDEyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2706700755998220715",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T04:14:00-08:00",
+      "updated": "2021-01-30T06:19:02-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/hyperpolarization-physics.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/2706700755998220715",
+      "title": "Hyperpolarization (physics)",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/2706700755998220715/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2MzQyMDExCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1030485131816738951",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T04:11:00-08:00",
+      "updated": "2021-01-30T06:19:22-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/bose-gas.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/1030485131816738951",
+      "title": "Bose gas",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/1030485131816738951/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2MzYyNjE2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8970572562804719825",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T04:09:00-08:00",
+      "updated": "2021-01-30T06:19:47-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/fermi-gas.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/8970572562804719825",
+      "title": "Fermi gas",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/8970572562804719825/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2Mzg3NDI4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7945579030553416019",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T04:06:00-08:00",
+      "updated": "2021-01-30T06:20:06-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/position-and-momentum-space.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7945579030553416019",
+      "title": "Position and momentum space",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7945579030553416019/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2NDA2NTI5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5076936215413962602",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T04:04:00-08:00",
+      "updated": "2021-01-30T06:20:29-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/josephson-effect.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/5076936215413962602",
+      "title": "Josephson effect",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/5076936215413962602/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2NDI5NDM2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1086239496679550975",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T04:01:00-08:00",
+      "updated": "2021-01-30T06:20:45-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/kleinnishina-formula.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/1086239496679550975",
+      "title": "Klein–Nishina formula",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/1086239496679550975/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2NDQ1MzE3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "659023885545810337",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T03:59:00-08:00",
+      "updated": "2021-01-30T06:21:03-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/kondo-effect.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/659023885545810337",
+      "title": "Kondo effect",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/659023885545810337/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2NDYzMTIyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7800723332629396661",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T03:58:00-08:00",
+      "updated": "2021-01-30T06:21:23-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/particle-in-one-dimensional-lattice.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7800723332629396661",
+      "title": "particle in a one-dimensional lattice",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7800723332629396661/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2NDgzNjkwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1968741400149357483",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T03:55:00-08:00",
+      "updated": "2021-01-30T06:21:46-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/lande-g-factor.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/1968741400149357483",
+      "title": "Landé g-factor",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/1968741400149357483/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2NTA2MjE3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4429083829951822759",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T03:19:00-08:00",
+      "updated": "2021-01-30T06:22:01-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/laser-cooling.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/4429083829951822759",
+      "title": "Laser cooling",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/4429083829951822759/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2NTIxMTc4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1505384844278877824",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T03:17:00-08:00",
+      "updated": "2021-01-30T06:22:16-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/principle-of-locality.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/1505384844278877824",
+      "title": "principle of locality",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/1505384844278877824/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2NTM2NTc5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7740306168791152606",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T03:16:00-08:00",
+      "updated": "2021-01-30T06:22:37-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/matter-waves.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7740306168791152606",
+      "title": "Matter waves",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7740306168791152606/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2NTU3ODA0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6475124237587862835",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T03:14:00-08:00",
+      "updated": "2021-01-30T06:22:56-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/no-communication-theorem.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/6475124237587862835",
+      "title": "no-communication theorem",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/6475124237587862835/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2NTc2MzI3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3225687665245578139",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T03:12:00-08:00",
+      "updated": "2021-01-30T06:23:18-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/partial-trace.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/3225687665245578139",
+      "title": "Partial trace",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/3225687665245578139/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2NTk4ODMyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "856833223665815027",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T03:10:00-08:00",
+      "updated": "2021-01-30T06:23:48-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/pauli-matrices.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/856833223665815027",
+      "title": "Pauli matrices",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/856833223665815027/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2NjI4NjI4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1614271591961865105",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T00:08:00-08:00",
+      "updated": "2021-01-30T06:24:07-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/pauli-exclusion-principle.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/1614271591961865105",
+      "title": "Pauli exclusion principle",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/1614271591961865105/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2NjQ3MDgzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6904723136589206587",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T00:06:00-08:00",
+      "updated": "2021-01-30T06:24:27-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/photoelectric-effect.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/6904723136589206587",
+      "title": "photoelectric effect",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/6904723136589206587/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2NjY3OTY0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3226606475642802657",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T00:04:00-08:00",
+      "updated": "2021-01-30T06:24:53-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/planck-constant.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/3226606475642802657",
+      "title": "Planck constant",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/3226606475642802657/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2NjkzNzQxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3356842655659143662",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-23T00:02:00-08:00",
+      "updated": "2021-01-30T06:25:23-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/parity-physics.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/3356842655659143662",
+      "title": "Parity (physics)",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/3356842655659143662/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2NzIzNTI4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1204513195420548891",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T23:59:00-08:00",
+      "updated": "2021-01-30T06:26:12-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/propensity-theory-of-probability.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/1204513195420548891",
+      "title": "propensity theory of probability",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/1204513195420548891/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2NzcyOTA4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3198697389449580206",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T23:58:00-08:00",
+      "updated": "2021-01-30T06:27:10-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/quantum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/3198697389449580206",
+      "title": "quantum",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/3198697389449580206/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2ODMwNjcwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1054696534126176479",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T23:57:00-08:00",
+      "updated": "2021-01-30T06:27:37-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/quantum-hall-effect.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/1054696534126176479",
+      "title": "quantum Hall effect",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/1054696534126176479/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2ODU3MTY1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5761202835279422748",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T22:19:00-08:00",
+      "updated": "2021-01-30T06:27:55-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/quantum-zeno-effect.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/5761202835279422748",
+      "title": "quantum Zeno effect",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/5761202835279422748/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2ODc1OTI5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2160924508516885631",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T22:18:00-08:00",
+      "updated": "2021-01-30T06:28:18-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/quantum-efficiency.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/2160924508516885631",
+      "title": "quantum efficiency",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/2160924508516885631/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2ODk4NjU3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6502228795821513239",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T22:16:00-08:00",
+      "updated": "2021-01-30T06:28:50-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/quantum-defect.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/6502228795821513239",
+      "title": "quantum defect",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/6502228795821513239/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2OTMwMzEzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7391005291836348407",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T22:14:00-08:00",
+      "updated": "2021-01-30T06:29:09-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/quantum-wire.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7391005291836348407",
+      "title": "quantum wire",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7391005291836348407/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE2OTQ5OTA5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "151304899475298291",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T22:12:00-08:00",
+      "updated": "2021-01-30T06:30:02-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/quantum-cosmology.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/151304899475298291",
+      "title": "Quantum cosmology",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/151304899475298291/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE3MDAyNjA2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6327131256843867152",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T22:10:00-08:00",
+      "updated": "2021-01-30T06:31:26-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/quantum-foam.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/6327131256843867152",
+      "title": "Quantum foam",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/6327131256843867152/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE3MDg2MzE3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7526125687295899362",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T22:08:00-08:00",
+      "updated": "2021-01-30T06:32:11-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/particle-statistics_22.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7526125687295899362",
+      "title": "quantum point contact",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7526125687295899362/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE3MTMxNjk1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7669173938662916027",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T22:07:00-08:00",
+      "updated": "2021-01-30T06:32:39-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/particle-statistics.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7669173938662916027",
+      "title": "Particle statistics",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7669173938662916027/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE3MTU5NTU4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7587365039356877321",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T22:05:00-08:00",
+      "updated": "2021-01-30T06:33:03-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/quantum-teleportation.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7587365039356877321",
+      "title": "Quantum teleportation",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7587365039356877321/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE3MTgzODg3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "77779572486165997",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T21:47:00-08:00",
+      "updated": "2021-01-30T06:33:24-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/quantum-well.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/77779572486165997",
+      "title": "quantum well",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/77779572486165997/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE3MjA0MjgzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "952508341455850760",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T21:45:00-08:00",
+      "updated": "2021-01-30T06:33:46-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/quantum-entanglement.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/952508341455850760",
+      "title": "Quantum entanglement",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/952508341455850760/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE3MjI2MTExCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2128185216313254522",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T21:43:00-08:00",
+      "updated": "2021-01-30T06:34:08-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/quantum-numbers.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/2128185216313254522",
+      "title": "quantum numbers ",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/2128185216313254522/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE3MjQ4ODEzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2331940114727414964",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T21:41:00-08:00",
+      "updated": "2021-01-30T06:34:29-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/quantization-physics.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/2331940114727414964",
+      "title": "Quantization (physics)",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/2331940114727414964/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE3MjY5NTg3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3056468235327575523",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T21:39:00-08:00",
+      "updated": "2021-01-30T06:34:54-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/crystal-momentum.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/3056468235327575523",
+      "title": "Crystal momentum",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/3056468235327575523/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE3Mjk0NzQxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5988202169585820854",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T21:38:00-08:00",
+      "updated": "2021-01-30T06:35:17-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/rashba-effect.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/5988202169585820854",
+      "title": "Rashba effect",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/5988202169585820854/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE3MzE3MDg5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4679544850408031112",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T21:34:00-08:00",
+      "updated": "2021-01-30T06:35:31-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/rydberg-constant.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/4679544850408031112",
+      "title": "Rydberg constant",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/4679544850408031112/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE3MzMxODU0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2365310511051718491",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T21:33:00-08:00",
+      "updated": "2021-01-30T06:35:53-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/sisyphus-cooling.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/2365310511051718491",
+      "title": "Sisyphus cooling",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/2365310511051718491/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE3MzUzODgzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6729173909566536761",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T21:31:00-08:00",
+      "updated": "2021-01-30T06:36:16-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/spin-flip.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/6729173909566536761",
+      "title": "spin-flip",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/6729173909566536761/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE3Mzc2ODkzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6861709782197054171",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T21:29:00-08:00",
+      "updated": "2021-01-30T06:36:32-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/spintronics.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/6861709782197054171",
+      "title": "Spintronics",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/6861709782197054171/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE3MzkyOTM1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8142960925565170026",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T21:28:00-08:00",
+      "updated": "2021-01-30T06:36:52-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/spontaneous-emission.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/8142960925565170026",
+      "title": "Spontaneous emission",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/8142960925565170026/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE3NDEyMDQ1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7442918112629870039",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T21:26:00-08:00",
+      "updated": "2021-01-30T06:37:12-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/nitrogen-vacancy-center.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7442918112629870039",
+      "title": "nitrogen-vacancy center",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/7442918112629870039/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE3NDMyNTc5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1184727873688871861",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T21:24:00-08:00",
+      "updated": "2021-01-30T06:37:55-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/supersolid.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/1184727873688871861",
+      "title": "supersolid",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/1184727873688871861/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE3NDc1OTYxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4690914350301413171",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T21:23:00-08:00",
+      "updated": "2021-01-30T06:38:32-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/term-symbol.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/4690914350301413171",
+      "title": "term symbol",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/4690914350301413171/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE3NTEyODM1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "902952438470494953",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T21:20:00-08:00",
+      "updated": "2021-01-30T06:38:55-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/tight-binding-model.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/902952438470494953",
+      "title": "tight-binding model",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/902952438470494953/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE3NTM1NzIzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6583916478533646905",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T21:18:00-08:00",
+      "updated": "2021-01-30T06:39:36-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/elitzurvaidman-bomb-tester.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/6583916478533646905",
+      "title": "Elitzur–Vaidman bomb-tester",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/6583916478533646905/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE3NTc2MjQ4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5716201142664434982",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T21:16:00-08:00",
+      "updated": "2021-01-30T06:39:59-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/wave-packet.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/5716201142664434982",
+      "title": "wave packet",
+      "content": "",
+	  "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/5716201142664434982/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE3NTk5NjM2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2830410472568206857",
+      "blog": {
+        "id": "7470008270946897808"
+      },
+      "published": "2021-01-22T21:13:00-08:00",
+      "updated": "2021-01-30T06:40:17-08:00",
+      "url": "http://quantumphysicsen.blogspot.com/2021/01/wigner-crystal.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/2830410472568206857",
+      "title": "Wigner crystal",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7470008270946897808/posts/2830410472568206857/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjEyMDE3NjE3MjMxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    }
+  ],
+  "etag": "\"MjAyMS0wMS0zMFQxNDo0MDoxNy4yMzFa\""
+}
